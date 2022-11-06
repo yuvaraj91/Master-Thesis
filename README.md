@@ -12,11 +12,13 @@ Automatic machine translation applications have helped tremendously in breaking 
 
 Architecture from Vaswani et. al. (2017):
 
-![tf](images/Transformer_model-3.png)
+![tf](images/Transformer_model.png)
+
 
 # Codebase
 
 Most are collected in assorted Jupyter Notebooks. The Python scripts main.py were run in the computing cluster provided by the University [ISMLL](https://www.ismll.uni-hildesheim.de/cluster/cluster_information_en.html)
+
 
 # Sample Results
 
